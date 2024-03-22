@@ -1,0 +1,30 @@
+{
+    "mask_0.jpg": {
+        "x_center": 594,
+        "y_center": 784
+    },
+    "mask_1.jpg": {
+        "x_center": 971,
+        "y_center": 933
+    },
+    "mask_3.jpg": {
+        "x_center": 151,
+        "y_center": 611
+    },
+    "mask_4.jpg": {
+        "x_center": 331,
+        "y_center": 529
+    },
+    "mask_5.jpg": {
+        "x_center": 634,
+        "y_center": 209
+    },
+    "mask_7.jpg": {
+        "x_center": 230,
+        "y_center": 144
+    },
+    "mask_11.jpg": {
+        "x_center": 83,
+        "y_center": 986
+    }
+}
